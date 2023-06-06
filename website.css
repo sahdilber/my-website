@@ -61,10 +61,10 @@ h3{
     height: 100%;
 }
 
-.nav a{
+nav a{
     color: #fff;
 }
-.nav a:hover{
+nav a:hover{
     color: rgb(85, 85, 144);
 }
 
