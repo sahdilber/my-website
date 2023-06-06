@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 
+:root{
+    --var--backround:rgb(156, 184, 218);
+    --var--scndbackround: rgb(118, 159, 209);
+}
+
 *{
     box-sizing:border-box;
     margin: 0; /*dış kenarların boyutu ayarlanır*/
@@ -39,7 +44,7 @@ h3{
   
 }
 .navbar{
-    background-color:rgb(156, 184, 218) ;
+    background-color:var(--var--backround) ;
     color: #fff;
     height:85px;
 }
@@ -95,7 +100,7 @@ h3{
 }
 
 .nav{
-    background-color: rgb(118, 159, 209);
+    background-color:var(--var--scndbackround);
     display: flex;
     justify-content: space-around;
     height: 100%;
