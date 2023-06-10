@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu');
 
 
 :root{
@@ -52,7 +51,7 @@ h3{
 }
 
 .logo{
-    font-family: 'Delicious Handrawn', cursive;
+    font-family:  'Patrick Hand', cursive;
     display: flex;
     margin:0;
     align-items: center;
