@@ -1,6 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu');
-
 
 :root{
     --var--backround:rgb(156, 184, 218);
@@ -118,4 +116,3 @@ nav a:hover{
 .search{
     right:0 ;
 }
-
